@@ -4,6 +4,7 @@
 
 * [7Zip Download](https://www.7-zip.org/download.html)
 * [Git Download](https://git-scm.com/downloads)
+* [Tortoise Git](https://tortoisegit.org/)
 * [Download DBeaver](https://dbeaver.io/download/)
 
 ## Apache Spark / PySpark Installation
