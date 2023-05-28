@@ -1,4 +1,4 @@
-# big-data-masters-program
+# Big Data Masters Program
 
 # Software Essentials
 
