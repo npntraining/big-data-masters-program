@@ -1,11 +1,11 @@
-col_id|col_name|col_exp|col_gen|col_dob|col_company|col_desig|col_doj|col_skills|col_previous_expected_salary
-101|'Agastya'|12|M|1987-01-22|Infosys|Developer|21-01-2015|'Java,Python,PySpark'|'1050000,1100000'
-102|'Acyuta'|25|F|1987-03-29|TCS|Team Lead|21-01-2016|'Java,Scala,Hadoop,Spark'|'1050000,1100000'
-103|'Anuvrata'|10|M|1987-01-22|Infosys|Developer|21-01-2017|'Java,Python,PySpark,Scala,Spark'|'1050000,1000000'
-|'Bhavika'|60|F|1987-01-22|Infosys|Team lead|21-01-2015|'Java,Python,PySpark,Scala,Spark,AWS'|
-105|'Chitragandha'||M|1987-01-22|CTS|Developer||'Java,Python,PySpark,Scala,Spark,AZURE'|'500000,600000'
-106|'Hritika'|19|F|1987-01-22|Cisco|Developer|21-01-2016|'Java,Scala,Spark,AZURE'|'900000,800000'
-107|'Jigyasa'|19|M|1987-01-22|Infosys|Team Lead|21-01-2005|'Hadoop,PySpark,Kafka'|'700000,800000'
-108|'Kaveri'|40|F|1987-01-22|cisco|R&D Engineer|21-01-2015|'Python,PySpark,AWS,AZURE'|'400000,500000'
-109||80|M|1987-01-22||Developer|21-01-2008|'Java,Python,PySpark,AWS,AZURE'|'300000,400000'
-110|'Vin'||T|1987-01-22|CTS|" Team Lead "|21-01-2020|'Python,PySpark,AWS,AZURE'|'500000,600000'
+col_id|col_name|col_exp|col_gen|col_dob|col_company|col_desig|col_doj|col_primary_skills|col_secondary_skills|col_previous_expected_salary
+101|'Agastya'|12|M|1987-01-22|Infosys|Developer|21-01-2015|'Python,PySpark'|'Java,Python,PySpark'|'1050000,1100000'
+102|'Acyuta'|25|F|1987-03-29|TCS|Team Lead|21-01-2016|'Java,Scala'|'Java,Hadoop,Spark'|'1050000,1100000'
+103|'Anuvrata'|10|M|1987-01-22|Infosys|Developer|21-01-2017|'Java,Python'|'PySpark,Scala,Spark'|'1050000,1000000'
+|'Bhavika'|60|F|1987-01-22|Infosys|Team lead|21-01-2015|'Java'|'Python,PySpark,Scala,Spark,AWS'|
+105|'Chitragandha'||M|1987-01-22|CTS|Developer||'Java,Spark'|'PySpark,Scala,Spark,AZURE'|'500000,600000'
+106|'Hritika'|19|F|1987-01-22|Cisco|Developer|21-01-2016|''|'Java,Scala,Spark,AZURE'|'900000,800000'
+107|'Jigyasa'|19|M|1987-01-22|Infosys|Team Lead|21-01-2005|'Python,Hadoop,PySpark'|'Kafka,AWS,Azure'|'700000,800000'
+108|'Kaveri'|40|F|1987-01-22|cisco|R&D Engineer|21-01-2015|'Python,PySpark'|'AWS,AZURE'|'400000,500000'
+109||80|M|1987-01-22||Developer|21-01-2008|''|'Java,Python,PySpark,AWS,AZURE'|'300000,400000'
+110|'Vin'||T|1987-01-22|CTS|" Team Lead "|21-01-2020|'Python,Hadoop'|'PySpark,AWS,AZURE'|'500000,600000'
